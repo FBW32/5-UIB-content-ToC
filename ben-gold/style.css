@@ -1,0 +1,7 @@
+.heading-list {
+  list-style-type: none;
+}
+
+.nested-list {
+  list-style-type: upper-roman;
+}
